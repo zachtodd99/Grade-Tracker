@@ -1,0 +1,36 @@
+Biology 315|600
+Computer Science 359|1000
+Computer Science 467|1000
+History 300|1000
+Electrical Engineering 315|1000
+Statistics 315|1000
+Beh Sci 110|1000
+Chem 200|1000
+Aero Engr 315|1000
+Astro Engr 410|1000
+Chem 100|1000
+Econ 201|1000
+Beh Sci 310|1000
+English 411|1000
+Comp Sci 110|1000
+Engr Mech 220|1000
+Mgt 400|1000
+Engr 101|1000
+English 211|1000
+ECE 315 MSS 400|1000
+English 111|1000
+Law 220|1000
+History 302|1000
+Soc Sci 412|1000
+MSS 200|1000
+Math 300|1000
+Math 356|1000
+Math 377|1000
+Physics 215|1000 
+Philos 310|1000
+History 101|1000
+Pol Sci 211|1000
+Math 141|1000
+Math 142|1000
+Math 152|1000
+Physics 110|1000

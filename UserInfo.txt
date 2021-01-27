@@ -1,0 +1,35 @@
+**
+Chemistry 115|1000
+**
+
+**
+
+**
+
+**
+
+**
+Philosophy 310|1000
+Group Presentation|66|75
+*
+Behavioral Science 310|1000
+Quiz 1|7|7
+*
+Astro 310|1000
+FSE|48|50
+*
+Comp Sci 483 (Operating Systems)|1000
+PEX1|46|50
+*
+Comp Sci 380 (Algorithms)|1000
+HW1|44|50
+*
+Comp Sci 364 (Info Storage)|1000
+HW 1|46|50
+**
+Cryptography|1000
+*
+Management|1000
+**
+
+**
